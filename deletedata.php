@@ -23,7 +23,7 @@ if(isset($_POST['but_logout'])){
 </html>
 
 <?php
-$servername = "mysqldb2022.c4a31adjeatg.us-west-2.rds.amazonaws.com";
+$servername = "database";
 $username = "admin";
 $password = "admin123";
 $dbname = "customers";
