@@ -5,8 +5,8 @@ class script{
 
         public function __construct(){
 
-                $server = "database";
-                $user = "admin";
+                $server = "blood";
+                $user = "root";
                 $pass = "admin123";
                 $db = "customers";
 
