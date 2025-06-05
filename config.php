@@ -2,8 +2,8 @@
 
 session_start();
 
-$host = "database"; /* Host name */
-$user = "admin"; /* User */
+$host = "blood"; /* Host name */
+$user = "root"; /* User */
 $password = "admin123"; /* Password */
 $dbname = "customers"; /* Database name */
 
